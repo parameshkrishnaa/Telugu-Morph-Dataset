@@ -11,7 +11,7 @@ rAmuluku &lt;'rAmulu,n,any,sg,3,,ki,ki'&gt;
 vaNikipoyiMxi 	&lt;'vaNikipo,v,fn,sg,3,,A,A'&gt; 
 
 ### Explanation of fields in the angular bracket. 
-**Each field is separated by comma**
+Each field is separated by comma  
 
 ### Field 1:	Root word		
 ### Field 2:	Lexical category		
